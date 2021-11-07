@@ -1,0 +1,4 @@
+﻿  main_lab2.cpp
+D:\Program Files (x86)\programs\lab_2_aisd\lab_2_aisd\main_lab2.cpp(73,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Program Files (x86)\programs\lab_2_aisd\lab_2_aisd\main_lab2.cpp(90,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  lab_2_aisd.vcxproj -> D:\Program Files (x86)\programs\lab_2_aisd\Debug\lab_2_aisd.exe
